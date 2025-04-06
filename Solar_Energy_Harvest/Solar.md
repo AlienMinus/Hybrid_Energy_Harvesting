@@ -63,6 +63,10 @@ This project implements a **Dual Axis Solar Tracking System** powered by **energ
 | 10          | Servo (Vertical Axis)    |
 | 11          | Optional LED / Relay     |
 
+## ⚙️ Circuit Diagram
+
+![Circuit Diagram](./SEH-TinkerCad.png) 
+
 ---
 
 ## 📦 How to Use

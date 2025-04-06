@@ -34,6 +34,10 @@ Below is the schematic for the circuit, where:
 | 8   | Arduino UNO            | 5V                    | Breadboard + rail    | +                    | Power for Arduino-side circuits         |
 | 9   | Arduino UNO            | GND                   | Breadboard - rail    | -                    | Grounding everything                    |
 
+## ⚙️ Circuit Diagram
+
+![Circuit Diagram](./RF-TinkerCad.png) 
+
 ## Efficiency Graph
 
 The efficiency of the RF energy harvesting system was tested across a range of frequencies. The following graph shows the relationship between **RF signal frequency** and **efficiency**.

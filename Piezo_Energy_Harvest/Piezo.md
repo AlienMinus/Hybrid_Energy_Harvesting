@@ -29,7 +29,7 @@ This project demonstrates the **conversion of mechanical vibrations into usable 
 
 ## ⚙️ Circuit Diagram
 
-![Circuit Diagram](./circuit.png)  
+![Circuit Diagram](./Piezo-TinkerCad.png)  
 > **Note:** This circuit consists of a piezo sensor feeding into a diode-capacitor rectifier, with the output connected to Arduino’s analog pin (A0) and LED on digital pin D7.
 
 ---
